@@ -1,6 +1,8 @@
 # Jev and Clef calibration experiment
 
-Code for the experiment described in [“To Jev, to Clef, or… to calibrate?”](https://bojedeforce.com/articles/to-jev-to-clef-or-to-calibrate.html). It asks Jev and Clef the same yes/no questions on 500 sentiment sentences and 500 redacted SMS messages, then checks the probabilities against the supplied labels.
+**Live article:** [“To Jev, to Clef, or… to calibrate?”](https://bojedeforce.com/articles/to-jev-to-clef-or-to-calibrate.html)
+
+This code asks Jev and Clef the same yes/no questions on 500 sentiment sentences and 500 redacted SMS messages, then checks the probabilities against the supplied labels.
 
 This repository contains **code only**. You can download the public datasets and generate your own results with your own API access. Requests to both hosted services may incur charges.
 
